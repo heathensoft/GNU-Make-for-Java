@@ -28,7 +28,7 @@ Structure your project like this:
         ├── Makefile
         ├── Manifest.txt
         ├── src/
-       │   └── java
+        │   └── java
         └── out
 
 And place your project inside of the /java subfolder (src/java/com/my/package)
