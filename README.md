@@ -24,12 +24,12 @@ For windows it is available as a package in environments like:
 
 Structure your project like this:
 
-└── Root/
-    ├── Makefile
-    ├── Manifest.txt
-    ├── src/
-    │   └── java
-    └── out
+    └── Root/
+        ├── Makefile
+        ├── Manifest.txt
+        ├── src/
+       │   └── java
+        └── out
 
 And place your project inside of the /java subfolder (src/java/com/my/package)
 
